@@ -71,7 +71,7 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "message",
-					"text" : "72 69",
+					"text" : "1 0",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"patching_rect" : [ 90.0, 198.0, 99.0, 18.0 ],
@@ -138,7 +138,7 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "message",
-					"text" : "43 0",
+					"text" : "68 0",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"patching_rect" : [ 117.0, 126.0, 74.836853, 18.0 ],
