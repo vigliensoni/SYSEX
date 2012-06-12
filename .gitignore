@@ -1,2 +1,3 @@
 *.aif
 *.asd
+.DS_Store
